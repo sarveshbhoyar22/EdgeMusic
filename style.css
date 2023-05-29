@@ -1,0 +1,161 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100;500&family=Roboto+Condensed:wght@300&display=swap');
+
+
+
+body{
+        background-color: antiquewhite;
+}
+*{      margin: 0;
+        padding: 0;
+}
+
+nav{
+    font: 100;
+    font-style: 'Chivo Mono', monospace;
+    font-family:'Chivo Mono', monospace;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: rgb(44, 31, 94);
+    color: aliceblue;
+}
+
+nav ul li {
+        text-decoration: rgb(255, 255, 255);
+        padding: 0 16px;
+        
+}
+.brand img{
+        
+        width: 55px;
+        padding: 0 8px;
+}
+
+.brand{
+        align-items: center;
+        display: flex;
+        font-size: 45px;
+        font-weight: bolder;
+
+}
+.bottom input{
+        color: black;
+        width: 900px;
+        align-items: center;
+}
+.bottom{
+
+        height: 120px;
+        position: sticky;
+        background-color: black;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+}
+.bottom input{
+        color: aqua;
+}
+.bottom i{
+        color: aliceblue;
+        size: 100px;
+        padding: 12px;
+        margin: 10px 0 ;
+        cursor: pointer;
+}
+.container{
+        min-height: 550px;
+        background-color: black;
+        margin: 24px auto;
+        width: 70%;
+        border-radius: 14px ;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        display: flex;
+        padding top: 14px;
+        background-image: url("sky.jpeg");
+        align-self: auto;
+        font-size: 25px;
+        
+}
+.container div div span{
+        font-size: 24px;
+        align-items: center;
+}        
+.container div div div {
+        align-items: center;
+        padding:  20px;
+}
+        
+
+
+.background img{
+
+        align-items: center;
+        display:flex;
+        padding:0 8px;
+        width: 900px;
+
+}
+body{
+
+        text color;
+}
+#img{
+        color: aliceblue;
+}
+.songiteam {
+
+        height: 30px;
+        color: black;
+        padding-top: 12px;
+        margin: 12px;
+        justify-items: space-between;
+        background-color: white;
+        border-radius: 24px;
+        
+}
+
+.songlist{
+
+        margin-top:12px ;
+}
+.songlistcontainer{
+
+        margin-top: 24px;
+}
+.play{
+        cursor: pointer;
+}
+.gif{
+       align-content: space-between;
+       align-self: auto;
+}
+input#myprogressbar
+{
+        color: antiquewhite;
+        background-color: black;
+}
+div.songlistcontainer{
+
+        
+}
+.lib{
+        color: aliceblue;
+}
+.set{
+        color: aliceblue;
+}
+.abt{
+        color: aliceblue;
+}
+.logo img {
+        color: antiquewhite;
+}
